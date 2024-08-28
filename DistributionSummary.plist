@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ObjectDetectionApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>59F8E9B8768C96FF8C654E7F49E459613DD2E608</string>
+				<key>dateExpires</key>
+				<string>20/11/24</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2228K8LXUF.com.tensorflow.ObjectDetection.vrdella</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2228K8LXUF</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ObjectDetectionApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5565465f-4db2-4922-9ad2-d53f9ece0c44</string>
+				<key>dateExpires</key>
+				<string>20/11/24</string>
+				<key>name</key>
+				<string>tfliteYolo8</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2228K8LXUF</string>
+				<key>name</key>
+				<string>Vivya Corp</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
